@@ -1,0 +1,20 @@
+C:\Users\Victor\Source\Repos\collatz-conjecture\collatz conjecture\bin\Debug\collatz conjecture.exe.config
+C:\Users\Victor\Source\Repos\collatz-conjecture\collatz conjecture\bin\Debug\collatz conjecture.exe
+C:\Users\Victor\Source\Repos\collatz-conjecture\collatz conjecture\bin\Debug\collatz conjecture.pdb
+C:\Users\Victor\Source\Repos\collatz-conjecture\collatz conjecture\obj\Debug\collatz_conjecture.Form1.resources
+C:\Users\Victor\Source\Repos\collatz-conjecture\collatz conjecture\obj\Debug\collatz_conjecture.Properties.Resources.resources
+C:\Users\Victor\Source\Repos\collatz-conjecture\collatz conjecture\obj\Debug\collatz conjecture.csproj.GenerateResource.cache
+C:\Users\Victor\Source\Repos\collatz-conjecture\collatz conjecture\obj\Debug\collatz conjecture.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Source\Repos\collatz-conjecture\collatz conjecture\obj\Debug\collatz conjecture.exe
+C:\Users\Victor\Source\Repos\collatz-conjecture\collatz conjecture\obj\Debug\collatz conjecture.pdb
+C:\Users\Victor\source\repos\collatz-conjecture\collatz conjecture\obj\Debug\collatz conjecture.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Vic example work\collatz-conjecture\collatz conjecture\bin\Debug\collatz conjecture.exe.config
+C:\Users\Victor\Desktop\Vic example work\collatz-conjecture\collatz conjecture\bin\Debug\collatz conjecture.exe
+C:\Users\Victor\Desktop\Vic example work\collatz-conjecture\collatz conjecture\bin\Debug\collatz conjecture.pdb
+C:\Users\Victor\Desktop\Vic example work\collatz-conjecture\collatz conjecture\obj\Debug\collatz conjecture.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Vic example work\collatz-conjecture\collatz conjecture\obj\Debug\collatz_conjecture.Form1.resources
+C:\Users\Victor\Desktop\Vic example work\collatz-conjecture\collatz conjecture\obj\Debug\collatz_conjecture.Properties.Resources.resources
+C:\Users\Victor\Desktop\Vic example work\collatz-conjecture\collatz conjecture\obj\Debug\collatz conjecture.csproj.GenerateResource.cache
+C:\Users\Victor\Desktop\Vic example work\collatz-conjecture\collatz conjecture\obj\Debug\collatz conjecture.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Vic example work\collatz-conjecture\collatz conjecture\obj\Debug\collatz conjecture.exe
+C:\Users\Victor\Desktop\Vic example work\collatz-conjecture\collatz conjecture\obj\Debug\collatz conjecture.pdb
